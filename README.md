@@ -3,7 +3,7 @@
 
 This sample makes use of the Redux and flutter_redux libraries to manage state
 
-# This is part one - set up and send one action add todo simple
+# This is part one - set up and send one action add todo 
 
 # Key Concepts
   - App ```State``` is an immutable Object that lives at the top of your Widget hierarchy within a Store.
