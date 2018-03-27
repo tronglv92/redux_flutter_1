@@ -22,6 +22,8 @@ class HomeScreen extends StatelessWidget {
               todos: store.state.todos,
               addTodoCallback: ((todo) =>
                   store.dispatch(new AddTodoAction(todo)))
+
+
           );
         },
         builder: (context, viewModel) {
