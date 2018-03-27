@@ -29,5 +29,5 @@ Dispatching Actions and updating the App State in this rigorous way allows you t
 4. When a View needs to update in response to a State change
 
 # Referent
-https://github.com/brianegan/flutter_architecture_samples
-https://marcinszalek.pl/flutter/reduxing-flutter/
+- https://github.com/brianegan/flutter_architecture_samples
+- https://marcinszalek.pl/flutter/reduxing-flutter/
