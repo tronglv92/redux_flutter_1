@@ -1,4 +1,4 @@
-# redux_flutter_1
+# redux_flutter
 
 
 This sample makes use of the Redux and flutter_redux libraries to manage state
